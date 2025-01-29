@@ -17,3 +17,15 @@
 .squishy {
     color: grey;
 }
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container .story-box {
+    background: lightgrey;
+    border: 4px solid black;
+    height: 300px;
+    width: 400px;
+    flex: auto;
+}
