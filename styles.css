@@ -27,5 +27,5 @@
     border: 4px solid black;
     height: 300px;
     width: 400px;
-    flex: auto;
+    flex: 1 1 auto;
 }
