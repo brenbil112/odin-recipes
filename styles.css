@@ -31,12 +31,12 @@
     flex: 1 1 auto;
 }
 
-.image-container {
+.flex_container .image-container {
     height: 350px;
     width: 350px;
     align-items: center;
     justify-content: center;
-    display: flex;
     margin: auto;
+    flex: 1 1 auto;
 }
 
