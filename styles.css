@@ -31,7 +31,9 @@
     flex: 1 1 auto;
 }
 
-.flex-container .friend-pic {
+.flex-container .image-box {
+    height: 350px;
+    width: 350px;
     justify-content: center;
     flex: 1 1 auto;
 }
