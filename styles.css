@@ -30,3 +30,7 @@
     padding: 10px;
     flex: 1 1 auto;
 }
+
+.flex-container .friend-pic {
+    justify-content: center;
+}
