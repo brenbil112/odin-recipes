@@ -31,9 +31,10 @@
     flex: 1 1 auto;
 }
 
-.flex-container .image-box {
+.image-container {
     height: 350px;
     width: 350px;
+    align-content: center;
     justify-content: center;
     flex: 1 1 auto;
 }
