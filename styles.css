@@ -40,3 +40,12 @@
     flex: 1 1 auto;
 }
 
+.flex-container .header-container {
+    background: lightgrey;
+    border: 4px solid black;
+    height: 100px;
+    width: 200px;
+    padding: 10px;
+    flex: 1 1 auto;
+}
+
