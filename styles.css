@@ -40,7 +40,7 @@
     flex: 1 1 auto;
 }
 
-.flex-container .header-container {
+.header-container {
     background: lightgrey;
     border: 4px solid black;
     height: 100px;
