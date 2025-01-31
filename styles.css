@@ -32,7 +32,7 @@
     flex: 1 1 auto;
 }
 
-.flex_container .image-container {
+.flex-container .image-container {
     height: 350px;
     width: 350px;
     align-items: center;
@@ -40,7 +40,7 @@
     flex: 1 1 auto;
 }
 
-.flex_container .header-container {
+.flex-container .header-container {
     background: lightgrey;
     border: 4px solid black;
     height: 100px;
