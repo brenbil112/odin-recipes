@@ -20,6 +20,7 @@
 
 .flex-container {
     display: flex;
+    justify-content: center;
 }
 
 .flex-container .story-box {
@@ -35,7 +36,6 @@
     height: 350px;
     width: 350px;
     align-items: center;
-    justify-content: center;
     margin: auto;
     flex: 1 1 auto;
 }
